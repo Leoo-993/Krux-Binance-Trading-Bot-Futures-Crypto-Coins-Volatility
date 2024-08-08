@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BoomTrader_2": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+      //
+    }
+  }
+}
